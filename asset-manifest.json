@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.de35a7c4.css",
-    "main.js": "/portfolio/static/js/main.747142fc.js",
+    "main.css": "/portfolio/static/css/main.ed5197a5.css",
+    "main.js": "/portfolio/static/js/main.92dbd310.js",
     "static/media/Hellraiser.png": "/portfolio/static/media/Hellraiser.977c0225b085b868b956.png",
     "static/media/me.png": "/portfolio/static/media/me.6a659c660fabe9d585f5.png",
     "static/media/code2.png": "/portfolio/static/media/code2.991831d0a626b3b8e8b3.png",
     "index.html": "/portfolio/index.html",
-    "main.de35a7c4.css.map": "/portfolio/static/css/main.de35a7c4.css.map",
-    "main.747142fc.js.map": "/portfolio/static/js/main.747142fc.js.map"
+    "main.ed5197a5.css.map": "/portfolio/static/css/main.ed5197a5.css.map",
+    "main.92dbd310.js.map": "/portfolio/static/js/main.92dbd310.js.map"
   },
   "entrypoints": [
-    "static/css/main.de35a7c4.css",
-    "static/js/main.747142fc.js"
+    "static/css/main.ed5197a5.css",
+    "static/js/main.92dbd310.js"
   ]
 }
