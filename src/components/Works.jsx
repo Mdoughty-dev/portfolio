@@ -4,6 +4,7 @@ import qwen from '../assets/qwen.png'
 import forbiddenKnowledge from "../assets/forbiddenKnowledge.png";
 import project2 from '../assets/Hellraiser.png';
 import nc from '../assets/nc_news.png'
+import minitalk from '../assets/minitalk.jpg'
 
 const Works = () => {
   return (
@@ -60,7 +61,7 @@ const Works = () => {
 
 	   {/* Project 3 */}
           <div
-            style={{ backgroundImage: `url(${nc})` }}
+            style={{ backgroundImage: `url(${minitalk})` }}
             className='h-60 w-full bg-cover bg-center bg-no-repeat shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto'
           >
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col bg-black/70 w-full h-full rounded-md'>
@@ -108,8 +109,7 @@ const Works = () => {
               <span className='text-lg font-bold text-white tracking-wider'>NC News</span>
               <p className='text-center px-4'>The NC News API is a RESTful backend service built with Node.js, Express, and PostgreSQL.
                  It provides structured access to news platform data including topics, users, articles, and comments.
-                 This project demonstrates:MVC-style separation of concerns, PostgreSQL querying using pg, Query validation and error handling ,Environment-based configuration
-                  The API is designed to be consumed by a front-end application.</p>
+                 This project demonstrates:MVC-style separation of concerns, PostgreSQL querying using pg, Query validation and error handling ,Environment-based configuration</p>
               <div className='pt-4 text-center'>
                 <a href='https://nc-news-md.netlify.app/' target="_blank" rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-2 m-2 bg-white text-gray-700 font-bold text-sm'>Demo</button>
