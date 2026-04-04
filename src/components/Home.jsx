@@ -8,7 +8,7 @@ import { Link } from "react-scroll"; // For smooth scrolling
 const Home = () => {
  return (
    // Main container - full screen with dark background
-   <div name="home" className="h-screen w-full bg-[#0a192f]">
+   <div name="home" className="min-nph-screen w-full bg-[#0a192f]">
      {/* Content wrapper - centers content and handles responsive layout */}
      <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
        {/* Left side - Text content */}
@@ -32,12 +32,12 @@ const Home = () => {
          {/* About Me button with hover effect */}
          <div>
            <Link
-             to="about"
+             to="work"
              smooth
              duration={500}
              className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer"
            >
-             About Me
+             See my finished projects
              <span className="group-hover:rotate-90 duration-300">
                <HiArrowNarrowRight size={25} className="ml-3" />
              </span>

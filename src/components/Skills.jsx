@@ -4,7 +4,7 @@ import React from 'react';
 const Skills = () => {
   return (
     // Main container with dark background
-    <div name='skills' className='w-full h-screen bg-[#0a192f] text-gray-300'>
+    <div name='skills' className='w-full min-h-screen bg-[#0a192f] text-gray-300'>
       {/* Content wrapper with max width and centering */}
       <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
           {/* Header section with title and intro */}
