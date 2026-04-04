@@ -23,7 +23,7 @@ const Works = () => {
           {/* Project 1 */}
           <div
             style={{ backgroundImage: `url(${forbiddenKnowledge})` }}
-            className='h-60 w-full bg-cover bg-center bg-no-repeat shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto'
+            className='h-80 w-full bg-cover bg-center bg-no-repeat shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto'
           >
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col bg-black/70 w-full h-full rounded-md'>
               <span className='text-lg font-bold text-white tracking-wider'>Forbidden Knowledge</span>
@@ -43,7 +43,7 @@ const Works = () => {
           {/* Project 2 */}
           <div
             style={{ backgroundImage: `url(${project2})` }}
-            className='h-60 w-full bg-cover bg-center bg-no-repeat shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto'
+            className='h-80 w-full bg-cover bg-center bg-no-repeat shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto'
           >
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col bg-black/70 w-full h-full rounded-md'>
               <span className='text-lg font-bold text-white tracking-wider'>Hellraiser</span>
@@ -62,7 +62,7 @@ const Works = () => {
 	   {/* Project 3 */}
           <div
             style={{ backgroundImage: `url(${minitalk})` }}
-            className='h-60 w-full bg-cover bg-center bg-no-repeat shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto'
+            className='h-80 w-full bg-cover bg-center bg-no-repeat shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto'
           >
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col bg-black/70 w-full h-full rounded-md'>
               <span className='text-lg font-bold text-white tracking-wider'>MiniTalk</span>
@@ -83,7 +83,7 @@ const Works = () => {
  {/* Project 4 */}
           <div
             style={{ backgroundImage: `url(${qwen})` }}
-            className='h-60 w-full bg-cover bg-center bg-no-repeat shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto'
+            className='h-80 w-full bg-cover bg-center bg-no-repeat shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto'
           >
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col bg-black/70 w-full h-full rounded-md'>
               <span className='text-lg font-bold text-white tracking-wider'>Grid Combat</span>
@@ -103,7 +103,7 @@ const Works = () => {
 
           <div
             style={{ backgroundImage: `url(${nc})` }}
-            className='h-60 w-full bg-cover bg-center bg-no-repeat shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto'
+            className='h-80 w-full bg-cover bg-center bg-no-repeat shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto'
           >
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col bg-black/70 w-full h-full rounded-md'>
               <span className='text-lg font-bold text-white tracking-wider'>NC News</span>
