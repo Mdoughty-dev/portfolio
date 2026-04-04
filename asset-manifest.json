@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.782635b1.css",
-    "main.js": "/portfolio/static/js/main.1993ee0d.js",
+    "main.css": "/portfolio/static/css/main.056513cc.css",
+    "main.js": "/portfolio/static/js/main.f91ae17c.js",
     "static/media/forbiddenKnowledge.png": "/portfolio/static/media/forbiddenKnowledge.21ad7c8e92fa014ec921.png",
+    "static/media/deadmans.png": "/portfolio/static/media/deadmans.70eca1c0a11cdf34b304.png",
     "static/media/overtime.jpg": "/portfolio/static/media/overtime.3b8176aefd728c437f03.jpg",
     "static/media/Hellraiser.png": "/portfolio/static/media/Hellraiser.977c0225b085b868b956.png",
     "static/media/nc_news.png": "/portfolio/static/media/nc_news.a5c3dbf51b501fb781b4.png",
@@ -11,11 +12,11 @@
     "static/media/minitalk.jpg": "/portfolio/static/media/minitalk.44a6708e9fbaa8eed25e.jpg",
     "static/media/openface.jpeg": "/portfolio/static/media/openface.e9c169ac997f444c280f.jpeg",
     "index.html": "/portfolio/index.html",
-    "main.782635b1.css.map": "/portfolio/static/css/main.782635b1.css.map",
-    "main.1993ee0d.js.map": "/portfolio/static/js/main.1993ee0d.js.map"
+    "main.056513cc.css.map": "/portfolio/static/css/main.056513cc.css.map",
+    "main.f91ae17c.js.map": "/portfolio/static/js/main.f91ae17c.js.map"
   },
   "entrypoints": [
-    "static/css/main.782635b1.css",
-    "static/js/main.1993ee0d.js"
+    "static/css/main.056513cc.css",
+    "static/js/main.f91ae17c.js"
   ]
 }
