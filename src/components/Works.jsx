@@ -27,9 +27,7 @@ const Works = () => {
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col bg-black/70 w-full h-full rounded-md'>
               <span className='text-lg font-bold text-white tracking-wider'>Forbidden Knowledge</span>
               <p className='text-center px-4'>Forbidden Knowledge is a browser-based multiplayer horror quiz RPG, built as part of a collaborative 
-                full-stack project. The frontend is built using Phaser, transforming a traditional web app into a real-time, game-like experience. 
-                Players battle eldritch monsters by answering questions, either solo or as part of a team.
-                This project demonstrates how a frontend can go beyond forms and pages — into interactive systems, real-time gameplay, and immersive UI design.</p>
+                full-stack projectn.</p>
               <div className='pt-4 text-center'>
                 <a href='https://eldritch-game.netlify.app/' target="_blank" rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-2 m-2 bg-white text-gray-700 font-bold text-sm'>Demo</button>
@@ -111,7 +109,7 @@ const Works = () => {
               <p className='text-center px-4'>The NC News API is a RESTful backend service built with Node.js, Express, and PostgreSQL.
                  It provides structured access to news platform data including topics, users, articles, and comments.
                  This project demonstrates:MVC-style separation of concerns, PostgreSQL querying using pg, Query validation and error handling ,Environment-based configuration
-                  Full test coverage using Jest and Supertest.The API is designed to be consumed by a front-end application.</p>
+                  The API is designed to be consumed by a front-end application.</p>
               <div className='pt-4 text-center'>
                 <a href='https://nc-news-md.netlify.app/' target="_blank" rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-2 m-2 bg-white text-gray-700 font-bold text-sm'>Demo</button>

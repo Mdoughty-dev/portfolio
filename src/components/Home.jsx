@@ -19,8 +19,15 @@ const Home = () => {
          </h2>
          {/* Brief introduction */}
          <p className="text-gray-500 py-4 max-w-md">
-            I have 8 years of experience in coding, graphic design and education. I am proficent in react, redux and tailwind. I primarily code in c++ or c. 
-	 I love building new app and game ideas in Unity and Unreal Engine. 
+           Software Developer with a strong creative technology background and a fast-learning, experimental approach to problem-solving. 
+                Experienced in building educational software, games, and interactive systems using C, C++, JavaScript, Python, and SQL. 
+                Skilled in full-stack development, working across both backend and frontend technologies.
+                Originally trained as an artist working with large-scale digital installations and audio-visual systems, 
+                which led to a focused transition into software development through postgraduate research, alongside formal computer science training 
+                at 42 London, with a primary focus on low-level programming in C. Currently completing a Level 4 Diploma in Software Development at Northcoders, 
+                supplemented by extensive self-study. Brings strong problem-solving ability, adaptability, and a well-rounded skill set across frontend 
+                and backend development, alongside clear technical communication skills developed through software projects, technical mentoring, and 
+                collaborative environments.
          </p>
          {/* About Me button with hover effect */}
          <div>
