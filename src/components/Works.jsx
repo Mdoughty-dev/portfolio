@@ -5,6 +5,7 @@ import forbiddenKnowledge from "../assets/forbiddenKnowledge.png";
 import project2 from '../assets/Hellraiser.png';
 import nc from '../assets/nc_news.png'
 import minitalk from '../assets/minitalk.jpg'
+import deadman from '../assets/deadmans.png'
 
 const Works = () => {
   return (
@@ -18,7 +19,7 @@ const Works = () => {
         </div>
 
         {/* Grid of Projects */}
-        <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
+        <div className='grid sm:grid-cols-2 md:grid-cols-2 gap-8'>
 
           {/* Project 1 */}
           <div
@@ -120,7 +121,26 @@ const Works = () => {
               </div>
             </div>
           </div>
-
+         
+         <div
+            style={{ backgroundImage: `url(${deadman})` }}
+            className='h-80 w-full bg-cover bg-center bg-no-repeat shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto'
+          >
+            <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col bg-black/70 w-full h-full rounded-md'>
+              <span className='text-lg font-bold text-white tracking-wider'>Deadman's Wrath</span>
+              <p className='text-center px-4'>A small rpg build using pycharm and python reminiscent of ff7 feels, combining surealism, horror and good old
+                fashioned rpg stroy telling.
+              </p>
+              <div className='pt-4 text-center'>
+                <a href='https://nc-news-md.netlify.app/' target="_blank" rel="noreferrer">
+                  <button className='text-center rounded-lg px-4 py-2 m-2 bg-white text-gray-700 font-bold text-sm'>Demo</button>
+                </a>
+                <a href='https://github.com/Mdoughty-dev/databases' target="_blank" rel="noreferrer">
+                  <button className='text-center rounded-lg px-4 py-2 m-2 bg-white text-gray-700 font-bold text-sm'>Code</button>
+                </a>
+              </div>
+            </div>
+          </div>
 
         </div>
       </div>
