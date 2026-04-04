@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.0b430ab8.css",
-    "main.js": "/portfolio/static/js/main.ef538e0b.js",
+    "main.css": "/portfolio/static/css/main.782635b1.css",
+    "main.js": "/portfolio/static/js/main.1993ee0d.js",
     "static/media/forbiddenKnowledge.png": "/portfolio/static/media/forbiddenKnowledge.21ad7c8e92fa014ec921.png",
     "static/media/overtime.jpg": "/portfolio/static/media/overtime.3b8176aefd728c437f03.jpg",
     "static/media/Hellraiser.png": "/portfolio/static/media/Hellraiser.977c0225b085b868b956.png",
@@ -11,11 +11,11 @@
     "static/media/minitalk.jpg": "/portfolio/static/media/minitalk.44a6708e9fbaa8eed25e.jpg",
     "static/media/openface.jpeg": "/portfolio/static/media/openface.e9c169ac997f444c280f.jpeg",
     "index.html": "/portfolio/index.html",
-    "main.0b430ab8.css.map": "/portfolio/static/css/main.0b430ab8.css.map",
-    "main.ef538e0b.js.map": "/portfolio/static/js/main.ef538e0b.js.map"
+    "main.782635b1.css.map": "/portfolio/static/css/main.782635b1.css.map",
+    "main.1993ee0d.js.map": "/portfolio/static/js/main.1993ee0d.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b430ab8.css",
-    "static/js/main.ef538e0b.js"
+    "static/css/main.782635b1.css",
+    "static/js/main.1993ee0d.js"
   ]
 }
