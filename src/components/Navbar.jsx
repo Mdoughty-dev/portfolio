@@ -20,7 +20,7 @@ const Navbar = () => {
     // Main navbar container - fixed at top, full width
     <div className='fixed w-full h-20 flex justify-between items-center px-4 bg-slate-900 text-gray-300'>
       <div>
-        <h1 className='font-thin text-2xl italic font-serif'>TB</h1>
+        <h1 className='font-thin text-2xl italic font-serif'>Matthew Doughty Software Developer</h1>
       </div>
 
       {/* Desktop Menu - hidden on mobile, flex on medium screens and up */}
