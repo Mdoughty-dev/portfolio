@@ -1,5 +1,6 @@
 import React from "react";
 import overtime from "../assets/overtime.jpg";
+import open from "../assets/openface.jpeg"
 
 const About = () => {
   return (
@@ -73,6 +74,11 @@ const About = () => {
                   applying this data to creative and interactive systems. It combines my interests in 
                   AI, software engineering, and experimental digital art.
                 </p>
+                <img 
+                  src={open}
+                  alt="openface"
+                  className="rounded-md w-full max-w-md"
+                  />
               </div>
 
             </div>
