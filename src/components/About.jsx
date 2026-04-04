@@ -54,7 +54,7 @@ const About = () => {
 
                   The goal is simple: nothing attacks you, yet everything feels wrong.
                 </p>
-
+                <br></br>
                 <img
                   src={overtime}
                   alt="OverTime horror game"
@@ -74,6 +74,7 @@ const About = () => {
                   applying this data to creative and interactive systems. It combines my interests in 
                   AI, software engineering, and experimental digital art.
                 </p>
+                <br></br>
                 <img 
                   src={open}
                   alt="openface"
