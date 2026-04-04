@@ -32,7 +32,7 @@ const Navbar = () => {
         </li>
          <li>
           <Link to='about' smooth={true} duration={500} className="cursor-pointer hover:text-white">
-            About
+            Current
           </Link>
 	</li>
          <li>
