@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.056513cc.css",
-    "main.js": "/portfolio/static/js/main.f91ae17c.js",
+    "main.js": "/portfolio/static/js/main.e3ef65c8.js",
+    "static/media/teaser.mp4": "/portfolio/static/media/teaser.08c612370dd7b5a2033f.mp4",
     "static/media/forbiddenKnowledge.png": "/portfolio/static/media/forbiddenKnowledge.21ad7c8e92fa014ec921.png",
     "static/media/deadmans.png": "/portfolio/static/media/deadmans.70eca1c0a11cdf34b304.png",
     "static/media/overtime.jpg": "/portfolio/static/media/overtime.3b8176aefd728c437f03.jpg",
@@ -13,10 +14,10 @@
     "static/media/openface.jpeg": "/portfolio/static/media/openface.e9c169ac997f444c280f.jpeg",
     "index.html": "/portfolio/index.html",
     "main.056513cc.css.map": "/portfolio/static/css/main.056513cc.css.map",
-    "main.f91ae17c.js.map": "/portfolio/static/js/main.f91ae17c.js.map"
+    "main.e3ef65c8.js.map": "/portfolio/static/js/main.e3ef65c8.js.map"
   },
   "entrypoints": [
     "static/css/main.056513cc.css",
-    "static/js/main.f91ae17c.js"
+    "static/js/main.e3ef65c8.js"
   ]
 }
