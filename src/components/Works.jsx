@@ -132,10 +132,10 @@ const Works = () => {
                 fashioned rpg stroy telling.
               </p>
               <div className='pt-4 text-center'>
-                <a href='https://nc-news-md.netlify.app/' target="_blank" rel="noreferrer">
+                <a href='https://github.com/Mdoughty-dev/Deadmans-Wrath' target="_blank" rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-2 m-2 bg-white text-gray-700 font-bold text-sm'>Demo</button>
                 </a>
-                <a href='https://github.com/Mdoughty-dev/databases' target="_blank" rel="noreferrer">
+                <a href='https://github.com/Mdoughty-dev/Deadmans-Wrath' target="_blank" rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-2 m-2 bg-white text-gray-700 font-bold text-sm'>Code</button>
                 </a>
               </div>

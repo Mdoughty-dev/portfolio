@@ -1,6 +1,7 @@
 import React from "react";
 import overtime from "../assets/overtime.jpg";
 import open from "../assets/openface.jpeg"
+import video from "../assets/video/teaser.mp4"
 
 const About = () => {
   return (
@@ -82,8 +83,28 @@ const About = () => {
                   />
               </div>
 
+              {/* Deadman's Wrath */}
+              <div>
+                <h2 className="text-2xl font-bold mb-3 text-white">
+                  Deadman's Wrath
+                </h2>
+                <p>
+                  I am currently developing a 2D game project set in a dark, narrative-driven world. 
+                  In this unique setting, divine forces have revealed themselves by destroying all religious monuments. 
+                  As a result, worship no longer offers salvation; instead, it leads to transformation, turning individuals 
+                  into dangerous and unpredictable threats.This project has provided an opportunity to delve into various 
+                  game systems, including real-time combat, animation state management, and scalable rendering. Additionally, 
+                  I am experimenting with world-building and atmosphere. The game is being built using Python and PyGame.
+                </p>
+                <br></br>
+                
+              </div>
+
             </div>
-          </div>
+          </div> 
+          <video width="750" height="500" controls >
+        <source src={video} type="video/mp4"/>
+        </video>
         </div>
       </div>
     </div>
