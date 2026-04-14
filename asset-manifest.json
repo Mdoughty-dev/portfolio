@@ -1,8 +1,10 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.056513cc.css",
-    "main.js": "/portfolio/static/js/main.e3ef65c8.js",
+    "main.css": "/portfolio/static/css/main.e74359e8.css",
+    "main.js": "/portfolio/static/js/main.6b9fafb6.js",
+    "static/media/overtime_demo.mp4": "/portfolio/static/media/overtime_demo.8f1327ec9d0aa340e1e2.mp4",
     "static/media/teaser.mp4": "/portfolio/static/media/teaser.08c612370dd7b5a2033f.mp4",
+    "static/media/patris_out.mp4": "/portfolio/static/media/patris_out.e09206d276ebc3abc91a.mp4",
     "static/media/forbiddenKnowledge.png": "/portfolio/static/media/forbiddenKnowledge.21ad7c8e92fa014ec921.png",
     "static/media/deadmans.png": "/portfolio/static/media/deadmans.70eca1c0a11cdf34b304.png",
     "static/media/overtime.jpg": "/portfolio/static/media/overtime.3b8176aefd728c437f03.jpg",
@@ -13,11 +15,11 @@
     "static/media/minitalk.jpg": "/portfolio/static/media/minitalk.44a6708e9fbaa8eed25e.jpg",
     "static/media/openface.jpeg": "/portfolio/static/media/openface.e9c169ac997f444c280f.jpeg",
     "index.html": "/portfolio/index.html",
-    "main.056513cc.css.map": "/portfolio/static/css/main.056513cc.css.map",
-    "main.e3ef65c8.js.map": "/portfolio/static/js/main.e3ef65c8.js.map"
+    "main.e74359e8.css.map": "/portfolio/static/css/main.e74359e8.css.map",
+    "main.6b9fafb6.js.map": "/portfolio/static/js/main.6b9fafb6.js.map"
   },
   "entrypoints": [
-    "static/css/main.056513cc.css",
-    "static/js/main.e3ef65c8.js"
+    "static/css/main.e74359e8.css",
+    "static/js/main.6b9fafb6.js"
   ]
 }
